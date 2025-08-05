@@ -13,7 +13,7 @@
 
 ---
 
-### 📌 My Projects
+### 📌 Practice
 - [Pytho--Data-Science](https://github.com/tyagi10017/Pytho--Data-Science) – Python practice and data science codes  
 - (Add more projects as you upload them)
 
