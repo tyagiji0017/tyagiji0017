@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 Tech Stack
-- *Languages:* Python, C  
+- *Languages:* Python, C , R-Programming 
 - *Libraries:* Pandas, NumPy, Matplotlib  
 - *Tools:* Git, GitHub, Jupyter Notebook  
 
